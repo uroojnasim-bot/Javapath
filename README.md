@@ -48,18 +48,6 @@ The platform covers seven chapters, aligned to *Introduction to Java Programming
 
 ---
 
-## How to use
-
-Just open `index.html` in a web browser. That's it.
-
-To share it with students, host the file for free on GitHub Pages:
-
-1. Push this repository to GitHub (make sure the file is named `index.html`).
-2. Go to **Settings → Pages**.
-3. Under **Source**, choose **Deploy from a branch**, set the branch to **main** and the folder to **/ (root)**, and click **Save**.
-4. After about a minute, your live URL appears at the top of the Pages settings. Share that link.
-
----
 
 ## Notes
 
