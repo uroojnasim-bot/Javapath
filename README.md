@@ -1,4 +1,10 @@
-# JavaPath — Personalized Java Learning Platform
+## License & Ownership
+
+© Urooj N., 2026. All rights reserved.
+
+This platform's design and methodology is the intellectual
+property of Urooj N.. This code may be adapted for other subjects only
+with attribution to the original author and prior permission.# JavaPath — Personalized Java Learning Platform
 
 **JavaPath** is a self-paced learning platform that helps students learn introductory Java programming, assess their own understanding, and get automatically routed to the exact material they need to review — then re-assess to prove their progress.
 
