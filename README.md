@@ -1,24 +1,14 @@
-## License & Ownership
-
-© Urooj N., 2026. All rights reserved.
-
-This platform's design and methodology is the intellectual
-property of Urooj N.. This code may be adapted for other subjects only
-with attribution to the original author and prior permission.# JavaPath — Personalized Java Learning Platform
+[README.md](https://github.com/user-attachments/files/30185288/README.md)
+# JavaPath — Personalized Java Learning Platform
 
 **JavaPath** is a self-paced learning platform that helps students learn introductory Java programming, assess their own understanding, and get automatically routed to the exact material they need to review — then re-assess to prove their progress.
 
-It is built as a single, self-contained web page: no installation, no server, no accounts. Open `index.html` in any modern browser and start learning.
 
 🔗 **Live site:** `https://<your-username>.github.io/<your-repo>/`
 
 ---
 
-## What it does
-
-JavaPath is built around a simple, proven learning loop:
-
-**Assess → Diagnose → Study → Re-assess**
+## Your Guide
 
 1. **Take a placement assessment.** A short diagnostic spanning all seven chapters maps each student's strengths and gaps.
 2. **Get a personalized path.** Results are turned into per-chapter mastery scores and a ranked list of focus areas — the weakest chapters first.
@@ -50,14 +40,26 @@ The platform covers seven chapters, aligned to *Introduction to Java Programming
 - **In-depth lessons** — plain-language explanations with worked code examples for every chapter
 - **Instant feedback** — every answer is graded on the spot with an explanation of why
 - **Gamification** — XP, levels, streaks, unlockable badges, and a leaderboard
-- **Works offline** — a single HTML file with no external dependencies
 
 ---
 
+## V1 scope (locked)
+
+- **Subjects:** Java and Linear Algebra only.
+- **Question types:** multiple choice and fill-in-the-blank only.
+- **Essay AI grading:** deferred — ships after the pilot, based on feedback.
+
+## License & Ownership
+
+© Urooj N., 2026. All rights reserved.
+
+---
 
 ## Notes
 
-- Student progress (XP, mastery, badges, streaks) is stored in the browser session and resets on reload. Persistent accounts or a shared class leaderboard would require a backend.
+- Student progress (XP, mastery, badges, streaks) is stored in the browser session and resets on reload. 
 - Reference material: Y. Daniel Liang, *Introduction to Java Programming, 13th Edition*, Pearson Education, Inc., 2023. ISBN-13: 9780138092832.
 
 ---
+
+*Built as an educational tool for introductory computer science students.*
