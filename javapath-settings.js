@@ -9,8 +9,8 @@
 */
 window.JP_SETTINGS = {
   title:       'Evaluating an AI-Enhanced Personalised Learning Approach for Beginner Java Students: Effects on Learning, Self-Efficacy, and Retention',
-  researcher:  '[Your Name]',
-  institution: 'Riyadh Elm University',
+  researcher:  '',
+  institution: 'REU',
   ethics:      '',
   contact:     '',
 
