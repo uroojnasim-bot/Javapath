@@ -43,11 +43,6 @@ The platform covers seven chapters, aligned to *Introduction to Java Programming
 
 ---
 
-## V1 scope (locked)
-
-- **Subjects:** Java and Linear Algebra only.
-- **Question types:** multiple choice and fill-in-the-blank only.
-- **Essay AI grading:** deferred — ships after the pilot, based on feedback.
 
 ## License & Ownership
 
@@ -57,7 +52,6 @@ The platform covers seven chapters, aligned to *Introduction to Java Programming
 
 ## Notes
 
-- Student progress (XP, mastery, badges, streaks) is stored in the browser session and resets on reload. 
 - Reference material: Y. Daniel Liang, *Introduction to Java Programming, 13th Edition*, Pearson Education, Inc., 2023. ISBN-13: 9780138092832.
 
 ---
